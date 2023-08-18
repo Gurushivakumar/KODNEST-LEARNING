@@ -4,5 +4,5 @@
 /**
  * 
  */
-module CheckGrade {
+module Discount {
 }
